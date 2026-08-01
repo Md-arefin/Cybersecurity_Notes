@@ -4,10 +4,6 @@ When we communicate, we are sharing information.  The term telecommunication, wh
 The word <B>Data</B> refers to information presented in whatever form is agreed upon by
 the parties creating and using the data.
 
-<B>Data-flow</B>: 
-1. simplex, (Keyboards and traditional monitors)
-2. half-duplex, (Walkie-talkies and CB (citizens band) radios) and 
-3. full-duplex (telephone network)
 
 ### <u>Network</u>
 A network is a set of devices (often referred to as nodes) connected by communication
