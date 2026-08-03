@@ -1,4 +1,4 @@
-### Service, Client, Server
+# Service, Client, Server
 A browser to navigate to a website. The browser is the client that requests the webpage, and the server is the system that serves it.
 
 The client is the one who always initiates the request.
