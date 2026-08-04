@@ -15,6 +15,11 @@ The OSI model is a layered framework for the design of network systems that allo
 across a network
 
 ### Layered Architecture
+
+- To Remember all the layers memorise this phrase:
+
+<b>All people Seems To Need Data Processing.</b> 
+
 The OSI model is composed of seven ordered layers: 
 - physical (layer 1), 
 - data link (layer 2),
